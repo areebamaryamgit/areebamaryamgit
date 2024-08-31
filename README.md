@@ -2,7 +2,7 @@
  
   
   ![logo](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
-<h1 align="center">Hey there👋, I'm Areeba Maryam</h1>
+<h1 align="center">Hey There👋, I'm Areeba Maryam</h1>
 <h3 align="center"> A passionate  app developer from Pakistan</h3>
 <p align="center"><strong>Digital World( Android Developer / Problem-Solver)</strong></p>
 <img align="right" alt="coding" width="400"src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif"/>
